@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions follow [SemVer](https://semver.org/).
 
+## [Unreleased] — 2026-11-26
+
+### Changed
+
+- **Organization renamed to Vullki.** The GitHub organization moved from DVRK-ORG to Vullki: `LICENSE`, `README.md` (badges, links, "Built by") and `SKILL.md` now say Vullki. Old `DVRK-ORG` links still redirect.
+- **CI:** the Python 3.9 job runs on `ubuntu-24.04`, because `ubuntu-latest` no longer ships Python 3.9.
+
 ## [1.0.2] — 2026-10-30
 
 The README was double-encoded and rendered as mojibake on GitHub.
