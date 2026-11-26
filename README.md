@@ -10,7 +10,7 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Dependencies: none](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](#quick-start)
 [![Lint tests](https://img.shields.io/badge/lint%20tests-49%2F49-blue.svg)](#testing)
-[![CI](https://github.com/DVRK-ORG/ios-shortcuts-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/DVRK-ORG/ios-shortcuts-skill/actions/workflows/ci.yml)
+[![CI](https://github.com/Vullki/ios-shortcuts-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/Vullki/ios-shortcuts-skill/actions/workflows/ci.yml)
 
 *Stop hand-editing plists. Stop shipping shortcuts that silently do nothing.*
 
@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <sub>Built by <a href="https://github.com/DVRK-ORG">DVRK-ORG</a> · Published as an <a href="https://agentskills.io">Agent Skill</a></sub>
+  <sub>Built by <a href="https://github.com/Vullki">Vullki</a> · Published as an <a href="https://agentskills.io">Agent Skill</a></sub>
 </div>
 
 
